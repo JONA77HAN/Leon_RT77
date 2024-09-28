@@ -49,7 +49,6 @@ datos_curiosos = [
     "Las abejas pueden ver colores en el espectro ultravioleta.",
     "Los pingüinos pueden saltar hasta 6 pies en el aire."
 ]
-
 def mostrar_datos_curiosos(datos):
     print("¡Bienvenido al juego de datos curiosos!")
     print("Aquí tienes algunos datos interesantes para ti:")
